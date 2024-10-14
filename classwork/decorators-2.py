@@ -87,7 +87,6 @@ def getValue(ls: list, index: int)->int:
 ls =[1, 2, 3]
 index = 3
 
-a ++
 try:
   getValue(ls, index)
 except BaseException as e:
